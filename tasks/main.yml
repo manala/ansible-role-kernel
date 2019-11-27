@@ -1,0 +1,11 @@
+---
+
+# Modules
+- import_tasks: modules.yml
+  tags:
+    - manala_kernel
+
+# Parameters
+- import_tasks: parameters.yml
+  tags:
+    - manala_kernel
